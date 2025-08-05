@@ -4,5 +4,17 @@
   "CartoDB Positron": "https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png",
   "CartoDB Dark Matter": "https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}.png",
   "Esri World Imagery Satellite": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}",
-  "Google Satellite": "https://mt1.google.com/vt/lyrs=s&x={x}&y={y}&z={z}"
+  "Google Satellite": "https://mt1.google.com/vt/lyrs=s&x={x}&y={y}&z={z}",
+
+
+  "Ontario LIO Topographic": "https://ws.lioservices.lrc.gov.on.ca/arcgis1061a/rest/services/LIO_Cartographic/LIO_Topographic/MapServer/tile/{z}/{y}/{x}",
+
+  "SCOOP 2023 Orthophoto (colour imagery)": "https://tiles.arcgis.com/tiles/4HnHVMMKSNypEIkS/arcgis/rest/services/S_SCOOP2023_WGS84_MTP240404/MapServer/tile/{z}/{y}/{x}",
+
+
+  "CartoDB Dark Matter (labels)": "https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}.png",
+  "CartoDB Dark Matter (no labels)": "https://{s}.basemaps.cartocdn.com/dark_nolabels/{z}/{x}/{y}.png",
+
+  "Stadia Alidade Smooth Dark": "https://tiles.stadiamaps.com/tiles/alidade_smooth_dark/{z}/{x}/{y}.png?api_key=cc59cdd7-0857-4180-bfb0-a1ccad552c7a",
+  "OSM France (alt render)": "https://{s}.tile.openstreetmap.fr/osmfr/{z}/{x}/{y}.png"
 }
